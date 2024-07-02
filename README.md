@@ -6,6 +6,7 @@
 <p>좋은 인연이 있을거라 믿고 기다리겠습니다.</p>
 <p>감사합니다.😊</p>
 
+<div align = "center">
 <!--
 **stagechaplin/stagechaplin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
