@@ -3,7 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stagechaplin&label=Profile%20views&color=0e75b6&style=flat" alt="stagechaplin" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Education</h3>
+
+- 가톨릭 관동 대학교 방송연예학과 졸업
+- 항공 운항 서비스 학과 복수 전공
 <p align="left">
 </p>
 
